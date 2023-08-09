@@ -19,4 +19,3 @@ while (fast != NULL && fast->next != NULL)
 
 	return (0);
 }
-
