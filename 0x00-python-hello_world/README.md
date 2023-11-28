@@ -1,1 +1,1 @@
-This contains my first programme in python-hello world
+This directory contains my first programme in python-hello world
