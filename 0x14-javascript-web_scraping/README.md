@@ -1,0 +1,1 @@
+This directory contains scripts on web scraping in javascript. The objectives of this project include learning to manipulate JSON data, use the request module to query APIs, and use the fs module to read and write to files locally.
